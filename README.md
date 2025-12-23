@@ -7,10 +7,10 @@
 ║   ██╔══╝  ██╔══██╗██╔══╝  ██║  ██║                                           ║
 ║   ██║     ██║  ██║███████╗██████╔╝                                           ║
 ║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝                                            ║
-║                                                                               ║
-║           Alfred Simeon Bockarie | Software Architect | Cybersecurity Tutor                     ║
+║                                                                              ║
+║           Alfred Simeon Bockarie | Software Architect | Cybersecurity Tutor  ║
 ║                    Freetown, Sierra Leone                                    ║
-║                                                                               ║
+║                                                                              ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
