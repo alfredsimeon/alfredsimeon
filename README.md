@@ -8,7 +8,7 @@
 ║   ██║     ██║  ██║███████╗██████╔╝                                           ║
 ║   ╚═╝     ╚═╝  ╚═╝╚══════╝╚═════╝                                            ║
 ║                                                                               ║
-║              Alfred Simeon Bockarie | Software Architect                     ║
+║           Alfred Simeon Bockarie | Software Architect | Cybersecurity Tutor                     ║
 ║                    Freetown, Sierra Leone                                    ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
@@ -17,7 +17,7 @@
 <div align="center">
 
 ```diff
-+ Full-Stack Engineer | Blockchain Developer | Security Researcher
++ Full-Stack Engineer | Blockchain Developer | Cybersecurity Tutor
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=600&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+the+Future%2C+One+Line+at+a+Time;Blockchain+%7C+Mobile+%7C+Web+%7C+Security)](https://git.io/typing-svg)
@@ -36,10 +36,10 @@ fred@terminal:~$ cat status.log
 [SYSTEM ACTIVE] ████████████████████████████████ 100%
 
 ├─ LOCATION........: Freetown, Sierra Leone 🇸🇱
-├─ ROLE............: Full-Stack Developer & Blockchain Engineer
+├─ ROLE............: Full-Stack Developer & Blockchain Engineer & Ethical Hacker
 ├─ STATUS..........: Available for Collaboration
 ├─ CURRENT_PROJECT.: Sierra Explore
-├─ LEARNING........: Penetration Testing | Advanced Networking
+├─ LEARNING........: Red Teaming
 └─ COFFEE_LEVEL....: ████████░░ 80%
 
 fred@terminal:~$ ./expertise.sh
@@ -47,7 +47,7 @@ fred@terminal:~$ ./expertise.sh
 > Web Applications........[████████████████████] EXPERT  
 > Blockchain (Solana).....[████████████████████] EXPERT
 > Software Architecture...[███████████████████░] ADVANCED
-> Cybersecurity...........[██████████████░░░░░░] LEARNING
+> Cybersecurity...........[██████████████░░░░░░] EXPERT
 
 fred@terminal:~$ echo "I think I am funny"
 I think I am funny
@@ -65,7 +65,7 @@ I think I am funny
 ┌─────────────────────────────────────────────────────────────┐
 │ PROJECT: Revolutionary Discovery Platform for Sierra Leone  │
 │ STATUS:  [IN DEVELOPMENT]                                   │
-│ STACK:   Flutter × Firebase × Node.js × MongoDB            │
+│ STACK:   Flutter × Firebase × Node.js ×                     │
 │ SEEKING: Collaborators & Contributors                       │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -117,7 +117,7 @@ const frontend = {
   frameworks: ['React', 'Next.js', 'Angular'],
   mobile: ['Flutter', 'React Native'],
   state: ['Redux', 'Context API'],
-  styling: ['TailwindCSS', 'Bootstrap', 'CSS3'],
+  styling: ['TailwindCSS', 'Bootstrap', 'CSS3' Material3],
   ui: ['Figma', 'Design Systems']
 };
 ```
@@ -276,7 +276,7 @@ Status: Continuously Upgrading Skills...
 ║  → Blockchain/Web3 Collaborations                       ║
 ║  → Mobile App Development (Flutter/React Native)        ║
 ║  → Open Source Contributions                            ║
-║  → Technical Writing & Mentorship                       ║
+║  → Ethical Hacking & Bug Bounty operations/contracts    ║
 ║  → Speaking Engagements & Workshops                     ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
